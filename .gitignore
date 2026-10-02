@@ -32,3 +32,10 @@ ide/
 daemon.lock
 daemon.status.json
 daemon/
+
+# Secrets
+secrets/
+*.key
+*.pem
+*.env
+*.env.bak
